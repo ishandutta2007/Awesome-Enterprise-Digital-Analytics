@@ -167,3 +167,8 @@ Thank you for exploring **Awesome Enterprise Digital Analytics**! If this curate
   <b>Built for analytics engineers, platform architects, and digital product leaders shaping modern behavioral telemetry.</b>
 </p>
 >>>>>>> 538fc7c221ce4f3b1197b8f3ee49bff80c54cde8
+Copy-Item README.md README.md.bak -Force
+# Manual step: replace SaaS and Open-Source sections with content above
+git add README.md
+git commit -m "docs: add enterprise digital analytics pricing (Mixpanel, Amplitude, Matomo Cloud, Countly) and flag Adobe/GA360 sales-gating"
+git push
