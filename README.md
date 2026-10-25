@@ -68,7 +68,7 @@ The table below catalogs premier commercial digital analytics suites, ranked str
 
 The table below lists the premier open-source, self-hosted alternatives to commercial digital analytics and behavioral intelligence platforms.
 
-*(Sorted strictly descending by GitHub Stars_Count)*
+*(Sorted strictly descending by GitHub_Stars_Count)*
 
 | 📦 Repository & Link | ⭐ Stars_Badge | 🛠️ Primary Capabilities & Focus Area |
 | :--- | :--- | :--- |
